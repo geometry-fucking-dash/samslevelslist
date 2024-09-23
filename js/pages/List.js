@@ -133,6 +133,9 @@ export default {
                         Levels built off of other levels are judged on a case-by-case basis on if they're allowed
                     </p>
                     <p>
+                        No absurdly difficult spam gameplay
+                    </p>
+                    <p>
                         For the love of god no NSFW/NSFL content in any levels please
                     </p>
                 </div>
