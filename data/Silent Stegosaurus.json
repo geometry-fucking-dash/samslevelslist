@@ -1,0 +1,18 @@
+{
+    "id": 110283640,
+    "name": "Silent Stegosaurus",
+    "author": "DehydratedM",
+    "creators": ["Erzl", "Diphen", "kyrpelo"],
+    "verifier": "Sams",
+    "verification": "https://youtu.be/gVwCiwcaYqo?si=E_ROZAwmnUYuX2bw",
+    "percentToQualify": 70,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sams",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": "240 [CBF]"
+        }
+    ]
+}
