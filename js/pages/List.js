@@ -127,13 +127,10 @@ export default {
                         LEVEL RULES
                     </p>
                     <p>
-
-                    </p>
-                    <p>
                         Levels are not allowed if they are longer than 4 minutes
                     </p>
                     <p>
-                        Levels built off of other levels are allowed, albeit if there are enough changes to truly consider it a seperate level. Judged on a case-by-case basis
+                        Levels built off of other levels are judged on a case-by-case basis on if they're allowed
                     </p>
                 </div>
             </div>
