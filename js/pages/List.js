@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without any Pointercrate rule-breaking hacks. CBF is allowed on the grounds that you say so in the video description or level description
+                        Achieved the record without any Pointercrate rule-breaking hacks. CBF is allowed on the grounds that you say so next to your FPS
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
