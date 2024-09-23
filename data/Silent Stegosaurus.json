@@ -8,11 +8,5 @@
     "percentToQualify": 70,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Sams",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": "[CBF] 240"
-        }
     ]
 }
