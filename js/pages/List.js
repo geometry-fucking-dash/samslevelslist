@@ -121,7 +121,19 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, records will be accepted but you will not gain any list points.
+                        Once a level falls onto the Legacy List, records will be accepted but you will not gain any list points
+                    </p>
+                    <p>
+                        LEVEL RULES
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
+                        Levels are not allowed if they are longer than 4 minutes
+                    </p>
+                    <p>
+                        Levels built off of other levels are allowed, albeit if there are enough changes to truly consider it a seperate level. Judged on a case-by-case basis
                     </p>
                 </div>
             </div>
